@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning CSS<br>💬 Ask me about<br>⚡ Fun fact
+🌱 I’m currently learning C#
 
 
 ## 🌐 Socials:
