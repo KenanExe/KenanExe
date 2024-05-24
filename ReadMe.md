@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning C# ,
+🌱 I’m currently learning C# <br>
 📈 Lua-u best
 
 ## 🌐 Socials:
