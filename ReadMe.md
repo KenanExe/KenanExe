@@ -1,12 +1,14 @@
 # 💫 About Me:
 🌱 I’m currently learning C++
 
- 🔭 I’m currently working on [Aquarium](https://github.com/KenanExe/Aquarium_mk3_mini)
+🔭 I’m currently working on [Aquarium](https://github.com/KenanExe/Aquarium_mk3_mini)
 
 📈 Lua-u is best
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]() [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/KenanExe.xyz) 
+##
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=If%20my%20code%20is%20readable,%20you%20won%E2%80%99t%20need%20me%20anymore.)
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](KenanExe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/KenanExe.xyz) 
 
 # 💻 Tech Stack:
 <div align="left">
@@ -20,7 +22,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KenanExe&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=KenanExe&show_icons=true&theme=dracula);
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KenanExe&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
