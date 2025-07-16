@@ -5,8 +5,6 @@
 
 ##
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](KenanExe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/KenanExe.xyz) 
-
 # 💻 Tech Stack:
 <div align="left">
   <code><img alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" " /></code>
