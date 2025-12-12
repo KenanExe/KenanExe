@@ -17,9 +17,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KenanExe&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KenanExe&theme=dracula&show_icons=true&hide_border=true&layout=compact) 
 
 
-<p align="center"><img src="https://count.getloli.com/get/@:kenanexe" alt=":kenanexe" /></p>
+<!-- <p align="center"><img src="https://count.getloli.com/get/@:kenanexe" alt=":kenanexe" /></p> -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
