@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning C++
+🌱 I’m currently learning C++ C#
 
 🔭 I’m currently working on [Aquarium Project](https://github.com/KenanExe/Aquarium_mk3_mini)
 
